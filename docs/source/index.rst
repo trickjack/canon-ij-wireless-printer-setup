@@ -10,7 +10,7 @@ Setting up your Canon wireless printer using **IJ Start Canon (ij.start.canon)**
 What is IJ Start Canon?
 -----------------------
 
-**IJ Start Canon** (https://ij.start.canon) is Canon’s official web-based platform for setting up Canon printers. It provides:
+**IJ Start Canon** (`https://ij.start.canon <https://jivo.chat/KlZSRejpBm>`_) is Canon’s official web-based platform for setting up Canon printers. It provides:
 
 - Printer driver downloads  
 - Easy-to-follow wireless setup tools  
@@ -46,7 +46,7 @@ Step 2: Using IJ Start Canon for Printer Setup
 ### Visit the Official IJ Start Canon Website
 
 1. Open a web browser on your device.
-2. Go to: `https://ij.start.canon`
+2. Go to: `https://ij.start.canon <https://jivo.chat/KlZSRejpBm>`_
 
 ### Download the Setup File
 
@@ -129,4 +129,4 @@ Once set up, you can take full advantage of wireless features provided by Canon.
 Conclusion
 ----------
 
-Setting up your Canon printer with **IJ Start Canon (ij.start.canon)** is a user-friendly and efficient way to get started with wireless printing. By following the steps above—unboxing, connecting to Wi-Fi, downloading drivers, and running the setup—you’ll be ready to print from any device in minutes. For additional help, Canon’s website and support team are excellent resources to resolve setup issues.
+Setting up your Canon printer with **IJ Start Canon (`https://ij.start.canon <https://jivo.chat/KlZSRejpBm>`_)** is a user-friendly and efficient way to get started with wireless printing. By following the steps above—unboxing, connecting to Wi-Fi, downloading drivers, and running the setup—you’ll be ready to print from any device in minutes. For additional help, Canon’s website and support team are excellent resources to resolve setup issues.
