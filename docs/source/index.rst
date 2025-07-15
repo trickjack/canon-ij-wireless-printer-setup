@@ -129,4 +129,4 @@ Once set up, you can take full advantage of wireless features provided by Canon.
 Conclusion
 ----------
 
-Setting up your Canon printer with **IJ Start Canon (`https://ij.start.canon <https://jivo.chat/KlZSRejpBm>`_)** is a user-friendly and efficient way to get started with wireless printing. By following the steps above—unboxing, connecting to Wi-Fi, downloading drivers, and running the setup—you’ll be ready to print from any device in minutes. For additional help, Canon’s website and support team are excellent resources to resolve setup issues.
+Setting up your Canon printer with **IJ Start Canon is a user-friendly and efficient way to get started with wireless printing. By following the steps above—unboxing, connecting to Wi-Fi, downloading drivers, and running the setup—you’ll be ready to print from any device in minutes. For additional help, Canon’s website and support team are excellent resources to resolve setup issues.
